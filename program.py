@@ -9,7 +9,7 @@ print("Podaj rok urodzenia odbiorcy:")
 year_born = int(input())
 
 print()
-print("Podaj spersonalizowaną wiadomośc:")
+print("Podaj spersonalizowaną wiadomość:")
 personalized_message = input()
 
 print()
