@@ -1,4 +1,4 @@
-print("Witaj w prgramie spersonalizowanych życzeń urodzinowych!")
+print("Witaj w programie spersonalizowanych życzeń urodzinowych!")
 
 print()
 print("Podaj imię odbiorcy:")
